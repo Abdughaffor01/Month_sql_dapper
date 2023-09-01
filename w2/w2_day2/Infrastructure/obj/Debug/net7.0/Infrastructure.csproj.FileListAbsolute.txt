@@ -1,0 +1,15 @@
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\bin\Debug\net7.0\Domein.dll
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\bin\Debug\net7.0\Domein.pdb
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Linux\Desktop\c# dapper\w2\w2_day2\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
