@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6bkQFG08WYjqxKzpaRWhZP6jP2OjDlSqqM11/zVhSxrCg/csAujU0PIoa+RmoFTE5kGe2IeDHhuoIel9HZVehw==",
+  "dgSpecHash": "rQsCNG8wk4eFJRgN95NP4m0D6XcHj00dXheOu1UYH72N5nxAAhRWc05inT2N+MnVcB2DfmktW1Knc6Z+vNllgQ==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/Рабочий стол/w2_day5/App/App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/App/App.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

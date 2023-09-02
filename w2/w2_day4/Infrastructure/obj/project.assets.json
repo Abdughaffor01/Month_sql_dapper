@@ -174,11 +174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/Рабочий стол/w2_day5/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/home/ubuntu/Рабочий стол/w2_day5/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/Рабочий стол/w2_day5/Infrastructure/obj/",
+      "outputPath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu/.nuget/NuGet/NuGet.Config"
@@ -193,8 +193,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/ubuntu/Рабочий стол/w2_day5/Domein/Domein.csproj": {
-              "projectPath": "/home/ubuntu/Рабочий стол/w2_day5/Domein/Domein.csproj"
+            "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/Domein.csproj": {
+              "projectPath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/Domein.csproj"
             }
           }
         }

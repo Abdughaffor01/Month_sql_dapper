@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu/Рабочий стол/w2_day5/Domein/Domein.csproj": {}
+    "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/Domein.csproj": {}
   },
   "projects": {
-    "/home/ubuntu/Рабочий стол/w2_day5/Domein/Domein.csproj": {
+    "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/Domein.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/Рабочий стол/w2_day5/Domein/Domein.csproj",
+        "projectUniqueName": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/Domein.csproj",
         "projectName": "Domein",
-        "projectPath": "/home/ubuntu/Рабочий стол/w2_day5/Domein/Domein.csproj",
+        "projectPath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/Domein.csproj",
         "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/Рабочий стол/w2_day5/Domein/obj/",
+        "outputPath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/Domein/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ubuntu/.nuget/NuGet/NuGet.Config"
