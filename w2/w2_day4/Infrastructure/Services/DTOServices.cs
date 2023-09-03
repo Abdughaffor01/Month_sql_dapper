@@ -97,11 +97,10 @@ public class DTOServices
         try
         {
             return await Task.Run(()=>{
-                using(var con = _context._DataContext()){
+                using var con = _context._DataContext();
                     var res=con.QueryFirstOrDefault<CountTwo>($"select distinct count(author) as CountOne,sum(categoryid) as CountTwoo from quotes");
                     if(res!=null)return new Responce<CountTwo>("Successful",res);
                     return new Responce<CountTwo>("not found");
-                }
             }); 
         }
         catch (Exception)

@@ -1,0 +1,12 @@
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/bin/Debug/net7.0/Domein.deps.json
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/bin/Debug/net7.0/Domein.dll
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/bin/Debug/net7.0/Domein.pdb
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.csproj.AssemblyReference.cache
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.AssemblyInfo.cs
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.dll
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/refint/Domein.dll
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/Domein.pdb
+/home/ubuntu/Desktop/Month_dapper/w2/w2_exam2/Domein/obj/Debug/net7.0/ref/Domein.dll
