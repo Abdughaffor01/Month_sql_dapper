@@ -203,7 +203,8 @@ while (true)
                 {
                     Console.WriteLine($"-----{s}");
                 }
-            }else Console.WriteLine("Error command");
+            }else if (comand==0) break;
+            else Console.WriteLine("Error command");
         }
     }
     else Console.WriteLine("Error comand");

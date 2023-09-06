@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domein", "Domein\Domein.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{F49B977D-691F-4932-9E65-9E6B42E8894F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{78532C2C-B110-405B-ACFB-38FE4FF405EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{F49B977D-691F-4932-9E65-9E6B42E8894F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F49B977D-691F-4932-9E65-9E6B42E8894F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F49B977D-691F-4932-9E65-9E6B42E8894F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78532C2C-B110-405B-ACFB-38FE4FF405EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78532C2C-B110-405B-ACFB-38FE4FF405EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78532C2C-B110-405B-ACFB-38FE4FF405EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78532C2C-B110-405B-ACFB-38FE4FF405EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

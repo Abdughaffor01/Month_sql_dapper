@@ -31,9 +31,9 @@ public class GroupService : IBaseServices<Groups>
                 if(res==0) return new Responce<Groups>("Not found");
                 return new Responce<Groups>("deleted");
         }
-        catch (Exception)
+        catch (Exception ex)
         {
-            return new Responce<Groups>("Error");
+            return new Responce<Groups>(ex.Message);
         }
     }
     public async Task<Responce<Groups>> GetAll()
@@ -41,7 +41,7 @@ public class GroupService : IBaseServices<Groups>
         try
         {
                 using var con=_context.createcontext();
-                string sql = "Select group_name as GroupsName,title as Title from groups";
+                string sql = "Select id as Id, group_name as GroupsName,title as Title from groups";
                 var res= await con.QueryAsync<Groups>(sql);
                 if(res==null) new Responce<Groups>("not found");
                 return new Responce<Groups>("Yesssss",res.ToList());
@@ -56,7 +56,7 @@ public class GroupService : IBaseServices<Groups>
         try
         {
                 using var con=_context.createcontext();
-                string sql = $"select group_name as GroupsName,title as Title from groups where id={id}";
+                string sql = $"select id as Id, group_name as GroupsName,title as Title from groups where id={id}";
                 var res=await con.QueryFirstOrDefaultAsync<Groups>(sql);
                 if(res==null) return new Responce<Groups>("Not found");
                 return new Responce<Groups>("yesss",res);

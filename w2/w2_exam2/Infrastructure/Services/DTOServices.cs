@@ -2,7 +2,6 @@ using Dapper;
 using Domein.Model;
 using Infrastructure.Data;
 using Infrastructure.Services.Generics;
-
 namespace Infrastructure.Services;
 
 public class DTOServices
@@ -83,7 +82,7 @@ public class DTOServices
             var res = await con.QueryFirstOrDefaultAsync<DTOGroupByIdStudents>(sql);
             res.Students = student.ToList();
             if (res == null) return new Responce<DTOGroupByIdStudents>("not found");
-            return new Responce<DTOGroupByIdStudents>("yraaaa",res);
+            return new Responce<DTOGroupByIdStudents>("uraaaa",res);
         }
         catch (Exception)
         {

@@ -41,7 +41,7 @@ public class StudentService : IBaseServices<Student>
         try
         {
             using var con = _context.createcontext();
-            string sql = $"select first_name as FirstName,last_name as LastName,phone as Phone,group_id as GroupId from student";
+            string sql = $"select id as Id, first_name as FirstName,last_name as LastName,phone as Phone,group_id as GroupId from student";
             var res = await con.QueryAsync<Student>(sql);
             if (res == null) return new Responce<Student>("not found");
             return new Responce<Student>("yess",res.ToList());
