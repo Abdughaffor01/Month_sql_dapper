@@ -12,7 +12,7 @@ public class GroupController:ControllerBase
     public GroupController() => _groupService = new GroupService();
 
     [HttpGet("GetAllGroup")]
-    public async Task<Responce<Groups>> GetAll()=> await _groupService.GetAll();
+    public async Task<Responce<List<Groups>>> GetAll()=> await _groupService.GetAll();
     
     [HttpGet("GetByIdGroup")]
     public async Task<Responce<Groups>> GetById(int id)=> await _groupService.GetById(id);

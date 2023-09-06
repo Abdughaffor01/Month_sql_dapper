@@ -36,19 +36,19 @@ public class StudentService : IBaseServices<Student>
             return new Responce<Student>("error");
         }   
     }
-    public async Task<Responce<Student>> GetAll()
+    public async Task<Responce<List<Student>>> GetAll()
     {
         try
         {
             using var con = _context.createcontext();
             string sql = $"select id as Id, first_name as FirstName,last_name as LastName,phone as Phone,group_id as GroupId from student";
             var res = await con.QueryAsync<Student>(sql);
-            if (res == null) return new Responce<Student>("not found");
-            return new Responce<Student>("yess",res.ToList());
+            if (res == null) return new Responce<List<Student>>("not found");
+            return new Responce<List<Student>>("Data Successfully found " ,res.ToList());
         }
-        catch (Exception)
+        catch (Exception exception)
         {
-            return new Responce<Student>("error");
+            return new Responce<List<Student>>(exception.Message);
         }
     }
     public async Task<Responce<Student>> GetById(int id)

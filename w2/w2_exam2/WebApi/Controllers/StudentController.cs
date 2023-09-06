@@ -12,7 +12,7 @@ public class StudentController:ControllerBase
     public StudentController() => _studentService = new StudentService();
 
     [HttpGet("GetAllStudent")]
-    public async Task<Responce<Student>> GetAll() => await _studentService.GetAll();
+    public async Task<Responce<List<Student>>> GetAll() => await _studentService.GetAll();
     
     [HttpGet("GetByIdStudent")]
     public async Task<Responce<Student>> GetById(int id) => await _studentService.GetById(id);

@@ -7,19 +7,19 @@ namespace Infrastructure.Services;
 public class DTOServices
 {
     DataContext _context= new DataContext();
-    public async Task<Responce<Student>> GetStudentByGroup(int id)
+    public async Task<Responce<List<Student>>> GetStudentByGroup(int id)
     {
         try
         {
             using var con = _context.createcontext();
             string sql = $"select first_name as FirstName,last_name as LastName,phone as Phone,group_id as GroupId from student where group_id={id}";
             var res = await con.QueryAsync<Student>(sql);
-            if (res == null) return new Responce<Student>("not found");
-            return new Responce<Student>("yess",res.ToList());
+            if (res == null) return new Responce<List<Student>>("not found");
+            return new Responce<List<Student>>("yess",res.ToList());
         }
         catch (Exception)
         {
-            return new Responce<Student>("Error");
+            return new Responce<List<Student>>("Error");
         }
     }
     public async Task<Responce<Student>> GetRandomStudent()
@@ -37,19 +37,19 @@ public class DTOServices
             return new Responce<Student>("Error");
         }
     }
-    public async Task<Responce<DTOStudentWithGroups>> GetStudentGroup()
+    public async Task<Responce<List<DTOStudentWithGroups>>> GetStudentGroup()
     {
         try
         {
             using var con = _context.createcontext();
             string sql = $"select concat(s.first_name,' ',s.last_name) as FullName , g.group_name as GroupName from student s join groups g on g.id=s.group_id";
             var res = await con.QueryAsync<DTOStudentWithGroups>(sql);
-            if (res == null) return new Responce<DTOStudentWithGroups>("not found");
-            return new Responce<DTOStudentWithGroups>("yraaaa",res.ToList());
+            if (res == null) return new Responce<List<DTOStudentWithGroups>>("not found");
+            return new Responce<List<DTOStudentWithGroups>>("yraaaa",res.ToList());
         }
         catch (Exception)
         {
-            return new Responce<DTOStudentWithGroups>("Error");
+            return new Responce<List<DTOStudentWithGroups>>("Error");
         }
     }
     public async Task<Responce<DTOGroupsWithStudents>> GroupsWithStudents()

@@ -36,19 +36,19 @@ public class GroupService : IBaseServices<Groups>
             return new Responce<Groups>(ex.Message);
         }
     }
-    public async Task<Responce<Groups>> GetAll()
+    public async Task<Responce<List<Groups>>> GetAll()
     {
         try
         {
                 using var con=_context.createcontext();
                 string sql = "Select id as Id, group_name as GroupsName,title as Title from groups";
                 var res= await con.QueryAsync<Groups>(sql);
-                if(res==null) new Responce<Groups>("not found");
-                return new Responce<Groups>("Yesssss",res.ToList());
+                if(res==null) new Responce<List<Groups>>("not found");
+                return new Responce<List<Groups>>("Yesssss",res.ToList());
         }
         catch (Exception)
         {
-            return new Responce<Groups>("Error");
+            return new Responce<List<Groups>>("Error");
         }
     }
     public async Task<Responce<Groups>> GetById(int id)
