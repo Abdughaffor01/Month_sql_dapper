@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnQm8o2wPwItcOe2U1mAi5CPuv92M+YK++xMlJZdVrhTFCPjnfME8PHtJCCZn5s0VZVtxB2UhibgGwMZG7LhBw==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu/Desktop/Month_dapper/w2/w2_day4/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

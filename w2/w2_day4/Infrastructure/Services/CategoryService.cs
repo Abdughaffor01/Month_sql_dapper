@@ -18,7 +18,7 @@ public class CategoryService:IBaseServices<Category>
                 }
             }); 
         }
-        catch (System.Exception)
+        catch (Exception)
         {
             return new Responce<Category>("Error !!! types");
         }
@@ -35,7 +35,7 @@ public class CategoryService:IBaseServices<Category>
                 }
             });
         }
-        catch (System.Exception)
+        catch (Exception)
         {
             return new Responce<Category>("Error !!! types");
         }
@@ -52,7 +52,7 @@ public class CategoryService:IBaseServices<Category>
                 }
             }); 
         }
-        catch (System.Exception)
+        catch (Exception)
         {
            return new Responce<Category>("Error !!! types");
         }
@@ -69,7 +69,7 @@ public class CategoryService:IBaseServices<Category>
                 }
             }); 
         }
-        catch (System.Exception)
+        catch (Exception)
         {
            return new Responce<Category>("Error !!! types");
         }
@@ -86,7 +86,7 @@ public class CategoryService:IBaseServices<Category>
                 }
             });  
         }
-        catch (System.Exception)
+        catch (Exception)
         {
             return new Responce<Category>("Error !!! types");
         }
