@@ -1,0 +1,12 @@
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/bin/Debug/net7.0/Domain.dll
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/bin/Debug/net7.0/Domain.pdb
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.dll
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.pdb
+/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/ref/Domain.dll
