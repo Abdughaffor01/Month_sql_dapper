@@ -37,3 +37,42 @@
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.pdb
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/appsettings.Development.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/appsettings.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/WebApi
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/WebApi.deps.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/WebApi.runtimeconfig.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/WebApi.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/WebApi.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Dapper.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Npgsql.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Domain.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Infrastructure.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Infrastructure.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/bin/Debug/net7.0/Domain.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfoInputs.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfo.cs
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.csproj.CoreCompileInputs.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApi.props
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApi.props
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApi.props
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/scopedcss/bundle/WebApi.styles.css
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.csproj.CopyComplete
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/refint/WebApi.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/obj/Debug/net7.0/ref/WebApi.dll

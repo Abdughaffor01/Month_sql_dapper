@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "YwUXVTNrydetllBi9ZemL75rAnPV8b/A5KNtm/PN/F4Xm2e4/wcZCBCNIGtm7Bjenj04n0yTl8kG8GX8E/AMTA==",
+  "dgSpecHash": "KUqd034guiRtFatF6YuSnAi95vwgC9KXxjMJOk/9DTGsAM3ovn0Ys25JXpC5ot9CKl5ZouceRqN/dx1PdYz/uA==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/WebApi/WebApi.csproj",
+  "projectFilePath": "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
-    "/home/ubuntu/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/home/kalilinux/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }

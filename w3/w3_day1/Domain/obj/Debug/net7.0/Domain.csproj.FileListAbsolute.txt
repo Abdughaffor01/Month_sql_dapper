@@ -10,3 +10,14 @@
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/refint/Domain.dll
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.pdb
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/ref/Domain.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/bin/Debug/net7.0/Domain.deps.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/bin/Debug/net7.0/Domain.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/bin/Debug/net7.0/Domain.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/refint/Domain.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/Domain.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/obj/Debug/net7.0/ref/Domain.dll

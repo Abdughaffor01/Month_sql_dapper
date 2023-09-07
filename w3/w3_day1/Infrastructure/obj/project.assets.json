@@ -169,19 +169,19 @@
     ]
   },
   "packageFolders": {
-    "/home/ubuntu/.nuget/packages/": {}
+    "/home/kalilinux/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/Infrastructure.csproj",
-      "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/obj/",
+      "projectPath": "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/Infrastructure.csproj",
+      "packagesPath": "/home/kalilinux/.nuget/packages/",
+      "outputPath": "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        "/home/kalilinux/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -193,8 +193,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/Domain.csproj": {
-              "projectPath": "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Domain/Domain.csproj"
+            "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/Domain.csproj": {
+              "projectPath": "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Domain/Domain.csproj"
             }
           }
         }
@@ -234,7 +234,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,18 @@
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
 /home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/bin/Debug/net7.0/Domain.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll

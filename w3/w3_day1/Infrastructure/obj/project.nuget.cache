@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CDNg5MvjX880cLzaAbCb9mI6xkJQEEjMANbMgQh9s8EmNIZQrQYI1KVbFwDzaQZS1SYi745ro9b98PKRm6DZNw==",
+  "dgSpecHash": "6AqTUief+LE0sgIOSm03/QpGVF77laBIouFU303TizSeMpvhMOaSUdUNbz8+eWdGijTvOccmY/km/72lUObPpw==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/Desktop/Month_dapper/w3/w3_day1/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/media/kalilinux/Новый том/Month_dapper/w3/w3_day1/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/home/ubuntu/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512"
+    "/home/kalilinux/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/kalilinux/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }
