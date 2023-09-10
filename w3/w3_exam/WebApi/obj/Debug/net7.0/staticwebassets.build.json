@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "sA2gVEZtcftAQkZ956ZKaFrFaLtfE1eBgH+VO5UjVUA=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\008.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/posts/008.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\posts\\008.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\Screenshot_20191119-164600_Google Play services.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/posts/Screenshot_20191119-164600_Google Play services.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\posts\\Screenshot_20191119-164600_Google Play services.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\Screenshot_20191119-164638_Google Play services.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/posts/Screenshot_20191119-164638_Google Play services.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\posts\\Screenshot_20191119-164638_Google Play services.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\Screenshot_20191219-134407_Samsung Experience Service.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/posts/Screenshot_20191219-134407_Samsung Experience Service.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\posts\\Screenshot_20191219-134407_Samsung Experience Service.jpg"
+    }
+  ]
+}
