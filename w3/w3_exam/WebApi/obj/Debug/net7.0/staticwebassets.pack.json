@@ -5,18 +5,6 @@
       "PackagePath": "staticwebassets\\images\\posts\\008.jpg"
     },
     {
-      "Id": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\Screenshot_20191119-164600_Google Play services.jpg",
-      "PackagePath": "staticwebassets\\images\\posts\\Screenshot_20191119-164600_Google Play services.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\Screenshot_20191119-164638_Google Play services.jpg",
-      "PackagePath": "staticwebassets\\images\\posts\\Screenshot_20191119-164638_Google Play services.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Abdughaffor\\Desktop\\Month_dapper\\w3\\w3_exam\\WebApi\\wwwroot\\images\\posts\\Screenshot_20191219-134407_Samsung Experience Service.jpg",
-      "PackagePath": "staticwebassets\\images\\posts\\Screenshot_20191219-134407_Samsung Experience Service.jpg"
-    },
-    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
